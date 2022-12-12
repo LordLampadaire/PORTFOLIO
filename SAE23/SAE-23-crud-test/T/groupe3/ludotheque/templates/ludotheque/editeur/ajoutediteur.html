@@ -1,0 +1,10 @@
+{% extends 'gabarit.html' %}
+{% block content %}
+<article class="formulaire">
+    <h2>Nouvel éditeur :</h2>
+    <form method="post" action="/ludotheque/editeur/traitementediteur">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="envoyer les données">
+</article>
+{% endblock %}

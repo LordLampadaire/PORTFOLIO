@@ -1,0 +1,8 @@
+{% extends 'gabarit.html' %}
+{% block content %}
+<h2>Joueur {{joueur.id}}</h2>
+<article class="article">
+    <h3>{{joueur.nom}} {{joueur.prenom}}</h3>
+        <p>{{joueur.mail}} : {{joueur.mdp}}</p>
+</article>
+{% endblock %}

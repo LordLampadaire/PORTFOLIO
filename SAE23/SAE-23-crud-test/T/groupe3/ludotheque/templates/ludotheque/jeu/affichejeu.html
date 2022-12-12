@@ -1,0 +1,28 @@
+{% extends 'gabarit.html' %}
+{% block content %}
+<h2>{{jeu.titre}}</h2>
+<article class="article">
+    <p> {{jeu.titre}}</p>
+    {% if jeu.photo != "" %}
+     <img src="{{jeu.photo}}" height="100px" width="100px">
+    {% endif %}
+
+    <p>{{moyenne}}/10  </p>
+
+    <div class = "Commentaire">
+        <h3> Commentaires </h3>
+        {% if commentaire != "" %}
+        {% for c in commentaire %}
+        {% if c.jeu == jeu %}
+        <p> {{c.joueur}} à écrit : {{c.commentaire}} </p>
+        {% endif %}
+        {% endfor %}
+        {% else %}
+        <p> Il n'y a pas de commentaire pour le moment </p>
+        {% endif %}
+    </div>
+
+
+
+</article>
+{% endblock %}

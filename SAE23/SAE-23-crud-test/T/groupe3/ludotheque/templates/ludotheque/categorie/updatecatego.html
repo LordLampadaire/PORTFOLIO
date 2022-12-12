@@ -1,0 +1,12 @@
+{% extends 'gabarit.html' %}
+{% block content %}
+<article class="formulaire">
+    <h2>Catégorie {{catego.id}} :</h2>
+    <form method="post" action="/ludotheque/categorie/traitementupdatecatego/{{id}}">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="envoyer les données">
+        <a class= href="/ludotheque/main/"><button class="annuler">annuler</button></a>
+    </form>
+</article>
+{% endblock %}

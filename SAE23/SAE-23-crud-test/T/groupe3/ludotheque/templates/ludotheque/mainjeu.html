@@ -1,0 +1,12 @@
+{% extends 'gabarit.html' %}
+{% block content %}
+<h1>
+    Liste de jeux
+</h1>
+    {% for j in jeu %}
+    <p class="catego">{{j.titre}} </p> <p class="description"> <br> {{j.editeur}} {{j.date_sortie}} </p> <p class="lien"><a href="/ludotheque/jeu/affichejeu/{{c.id}}">Afficher la catégorie</a> <a href="/ludotheque/jeu/deletejeu/{{c.id}}">Supprimer la catégorie</a> <a href="/ludotheque/jeu/updatejeu/{{c.id}}">Modifier la catégorie</a></p>
+<br>
+    {% endfor %}
+<a class="button-27" href="/ludotheque/jeu/ajoutjeu/"> Ajouter une catégorie </a>
+
+{% endblock %}
