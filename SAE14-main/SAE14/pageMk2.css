@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+@font-face {
+    font-family: 'escalade';
+    src: 'police/towerruins.ttf';
+}
+:root {
+
+    --typewriterSpeed: 4s;
+    --typewriterCharacters: 24;
+  }
+.p {
+    font-size: clamp(1rem, 3vw + 1rem, 4rem);
+    position: relative;
+    font-family: "Source Code Pro", monospace;
+    position: relative;
+    width: max-content;
+    display: grid;
+    place-content: center;
+    padding-left: 29%;
+    color: floralwhite;
+  }
+.p::before,
+.p:after {
+    content: "";
+    position:absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 33rem;
+  }
+
+.p::before {
+    background:rgb(100, 94, 91);
+    animation: typewriter var(--typewriterSpeed)
+      steps(var(--typewriterCharacters)) 1s forwards;
+  }
+.p::after {
+    width: 0.125em;
+    background: black;
+    animation: typewriter var(--typewriterSpeed)
+        steps(var(--typewriterCharacters)) 1s forwards,
+      blink 750ms steps(var(--typewriterCharacters)) infinite;
+  }
+  @keyframes typewriter {
+    to {
+      left: 100%;
+    }
+  }
+@keyframes blink {
+    to {
+      background: transparent;
+    }
+  }
+
+  @keyframes fadeInUp {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+
+  
+  .underline-effect {
+    display: inline-block;
+    padding-bottom: 0.25rem; /* defines the space between text and underline */
+    position: relative;
+  }
+  
+  .underline-effect::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: floralwhite;
+    transition: width 0.50s ease-out;
+  }
+  .underline-effect:hover::before {
+    width: 100%;
+  }
+  html{
+      background-color: black;
+      color: floralwhite;
+      font-family: 'Anonymous Pro', monospace;
+  
+  }
+  footer{/*enlève l'effet souligner des liens*/
+	text-decoration: none;
+    
+	
+}
+p{
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 150%;
+}
+a{
+	text-decoration: none;
+    
+
+}
+article{
+    padding-left: 2%;
+    font-size: 150%;
+}
+.bloc10{
+	background-color: rgb(100, 94, 91);
+	padding-bottom: 8%;
+	padding-top: 8%;
+	
+}
+.bloc11{
+	background-color: black;
+	padding-bottom: 10%;
+	padding-top: 11%;
+	
+}
+.bloc12{
+	background-color: rgb( 120, 144, 156 );
+	padding-bottom: 10%;
+	padding-top: 10%;
+	
+}
+.bloc20{
+	background-color: rgb( 30, 132, 73 );
+	padding-bottom: 8%;
+	padding-top: 5%;
+	
+}
+.bloc21{
+	background-color: rgb( 28, 40, 51 );
+	padding-bottom: 10%;
+	padding-top: 5%;
+	
+}
+.bloc22{
+	background-color: rgb( 22, 160, 133 );
+	padding-bottom: 10%;
+	padding-top: 5%;
+	
+}
+.titre1{
+    padding-left: 2%;
+    font-size: 300%;
+}
+.titre2{
+    text-align: center;
+    font-size: 500%;
+}
+.police1{
+    color: floralwhite;
+    font-family: 'Roboto Mono', monospace;
+}
+.text{
+    color: floralwhite;
+}

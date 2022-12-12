@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+@font-face {
+    font-family: escalade;
+    src: url(police/towerruins.ttf);
+}
+html{
+	background-image: url("https://www.ffme.fr/wp-content/uploads/2020/02/falaise.jpg");
+	background-size: 190%;
+	font-family: 'Anonymous Pro', monospace;
+	
+}
+footer{/*enlève l'effet souligner des liens*/
+	text-decoration: none;
+	color:black /*change la couleur du text*/
+}
+a{
+	text-decoration: none;
+	color: rgb(103, 96, 95);
+	
+}
+a:hover{ /*change la couleur et la police du text lorsque l'on pas la souris dessus*/
+	color:yellow;
+	font-size:110%/*change la taile du text*/
+}
+h1{
+	font-size: 500%;
+}
+h3{
+	font-size: 200%;
+}
+.bloc10{
+	background-color: rgba(176, 189, 169, 0.481);
+	border-radius: 25px;
+	display: flex;
+	margin-right: 75%;
+	padding-left: 1%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+.grosseboite{
+	display: flex;
+	flex-direction: row-reverse;
+	
+}
+.bloc11{
+	background-color: rgba(182, 128, 12, 0.528);
+	flex: 1;
+	margin: 2%;	
+	padding: 2%;
+	border-radius: 25px;
+
+}
+
+.bloc12{
+	background-color: rgba(219, 226, 79, 0.515);
+	flex: 1;
+	margin-top: 30%;
+	margin-bottom: 30%;
+	border-radius: 25px;
+	padding-left: 2%;
+}
+.bloc13{
+	background-color: rgba(122, 184, 89, 0.638);
+	border-radius: 25px;
+	padding: 2%;
+	margin-right: 55%;
+
+}
+.bloc14{
+	background-color: rgba(89, 170, 184, 0.611);
+	border-radius: 25px;
+	margin-right: 20%;
+	margin-left: 20%; 
+	margin-top: 2%;
+	padding: 2%;
+	
+}
+.text{
+	font-family: 'escalade';
+}
