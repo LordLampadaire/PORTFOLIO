@@ -26,11 +26,9 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - AC21.05 | Identifier les réseaux opérateurs et l’architecture d’Internet
 - AC21.06 | Travailler en équipe pour développer ses compétences professionnelles
 #### SAE liée
-- SAE11- Hygiène informatique
 - SAE12- S’initier  aux réseaux informatiques
 - SAE21-Construire un réseau informatique pour une petite structure
 - SAE24-Projet intégratif
-
 
 
 
