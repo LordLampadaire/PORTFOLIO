@@ -85,6 +85,7 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - SAE23- Mettre en place une solution informatique pour l'entreprise
 - SAE24- Projet interactif
 - SAE301- Mettre en oeuvre un système de transmission
+- SAE3.02_FI - Développer des applications communicantes
 
 
 
