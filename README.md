@@ -106,7 +106,8 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - AC24.05Cyber | Connaître les différents types d’attaque
 - AC24.06Cyber | Comprendre des documents techniques en anglais
 #### SAE liée
-SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
+- SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
+- R6cyber.04- gestion de crise
 
 
 ### Surveiller un système d’information
@@ -121,5 +122,6 @@ SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
 - AC25.01Cyber | Administrer les protections contre les logiciels malveillants
 - AC25.02Cyber | Prendre en main des outils de test de pénétration réseau/système
 #### SAE liée
-SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
+- SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
+- R6cyber.04- gestion de crise
 
