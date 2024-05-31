@@ -2,17 +2,11 @@
 ## Mon portfolio sur mes années de BUT
 Voici le portfolio des différents projets (SAE) étalé sur les 3 années de mon BUT
 Sur ce read me vous trouverez les apprentissages critique et leur SAE lié 
-Thomas.B
+- Thomas.B
 
 
 
 ### Administrer les réseaux et l’internet
-#### Composantes essentielles
-- CE1.01 | en choisissant les solutions et technologies réseaux adaptées
-- CE1.02 | en respectant les principes fondamentaux de la sécurité informatique
-- CE1.03 | en utilisant une approche rigoureuse pour la résolution des dysfonctionnements
-- CE1.04 | en respectant les règles métiers
-- CE1.05 | en assurant une veille technologique
 #### Apprentissage critique
 - AC11.01 | Maîtriser les lois fondamentales de l’électricité afin d’intervenir sur des équipements de réseaux et télécommunications
 - AC11.02 | Comprendre l'architecture et les fondements des systèmes numériques, les principes du codage de l'information, des communications et de l'Internet
@@ -33,15 +27,7 @@ Thomas.B
 - SAE303- Concevoir un réseau multisites
 
 
-
-
-
 ### Connecter les entreprises et les usagers 
-#### Composantes essentielles
-- CE2.01 | en communiquant avec le client et les différents acteurs impliqués, parfois en anglais
-- CE2.02 | en faisant preuve d’une démarche scientifique
-- CE2.03 | en choisissant les solutions et technologies adaptées
-- CE2.04 | en proposant des solutions respectueuses de l'environnement
 #### Apprentissage critique
 - AC12.01 | Mesurer, analyser et commenter les signaux
 - AC12.02 | Caractériser des systèmes de transmissions élémentaires et découvrir la modélisation mathématique de leur fonctionnement
@@ -63,12 +49,6 @@ Thomas.B
 
 
 ### Créer des outils et applications informatiques pour les R&T
-#### Composantes essentielles
-- CE3.01 | en étant à l’écoute des besoins du client
-- CE3.02 | en documentant le travail réalisé
-- CE3.03 | en utilisant les outils numériques à bon escient
-- CE3.04 | en choisissant les outils de développement adaptés
-- CE3.05 | en intégrant les problématiques de sécurité
 #### Apprentissage critique
 - AC13.01 | Utiliser un système informatique et ses outils
 - AC13.02 | Lire, exécuter, corriger et modifier un programme
@@ -93,12 +73,6 @@ Thomas.B
 
 
 ### Administrer un système d’information sécurisé
-#### Composantes essentielles
-- CE4.01 | en visant un juste compromis entre exigences de sécurité et contraintes d’utilisation
-- CE4.02 | en respectant les normes et le cadre juridique
-- CE4.03 | en intégrant les dernières technologies
-- CE4.04 | en travaillant en équipe
-- CE4.05 | en sensibilisant efficacement des utilisateurs
 #### Apprentissage critique
 - AC24.01Cyber | Connaître et utiliser les bonnes pratiques et les recommandations de cybersécurité
 - AC24.02Cyber | Mettre en œuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau
@@ -112,13 +86,6 @@ Thomas.B
 
 
 ### Surveiller un système d’information
-#### Composantes essentielles
-- CE5.01 | en assurant une veille permanente
-- CE5.02 | en réalisant les mises à jour critiques
-- CE5.03 | en automatisant des tâches
-- CE5.04 | en s’intégrant dans une équipe
-- CE5.05 | en surveillant le comportement du réseau
-- CE5.06 | en veillant au respect des contrats et à la conformité des obligations du système d'information
 #### Apprentissage critique
 - AC25.01Cyber | Administrer les protections contre les logiciels malveillants
 - AC25.02Cyber | Prendre en main des outils de test de pénétration réseau/système
