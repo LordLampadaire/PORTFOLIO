@@ -2,6 +2,7 @@
 ## Mon portfolio sur mes années de BUT
 Voici le portfolio des différents projets (SAE) étalé sur les 3 années de mon BUT
 Sur ce read me vous trouverez les apprentissages critique et leur SAE lié 
+Thomas.B
 
 
 
