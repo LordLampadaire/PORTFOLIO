@@ -58,7 +58,7 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - SAE24- Projet interactif
 - SAE301- Mettre en oeuvre un système de transmission
 - SAE303- Concevoir un réseau multisites
-
+- SAE5.02- Projet Informatique(listify)
 
 
 ### Créer des outils et applications informatiques pour les R&T
@@ -87,6 +87,7 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - SAE24- Projet interactif
 - SAE301- Mettre en oeuvre un système de transmission
 - SAE3.02_FI - Développer des applications communicantes
+- SAE5.02- Projet Informatique(listify)
 
 
 
@@ -104,7 +105,8 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - AC24.04Cyber | Choisir les outils cryptographiques adaptés au besoin fonctionnel du système d’information
 - AC24.05Cyber | Connaître les différents types d’attaque
 - AC24.06Cyber | Comprendre des documents techniques en anglais
-
+#### SAE liée
+SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
 
 
 ### Surveiller un système d’information
@@ -118,3 +120,6 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 #### Apprentissage critique
 - AC25.01Cyber | Administrer les protections contre les logiciels malveillants
 - AC25.02Cyber | Prendre en main des outils de test de pénétration réseau/système
+#### SAE liée
+SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
+
