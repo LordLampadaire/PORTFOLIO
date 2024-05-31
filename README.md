@@ -7,8 +7,12 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 
 
 ### Administrer les réseaux et l’internet
-#### Apprentissage critique
-- AC11.01 | Maîtriser les lois fondamentales de l’électricité afin d’intervenir sur des équipements de réseaux et télécommunications
+Parmis ces SAE :
+- SAE12- S’initier  aux réseaux informatiques
+- SAE21-Construire un réseau informatique pour une petite structure
+- SAE24- Projet intégratif
+- SAE303- Concevoir un réseau multisites
+j'ai pu acquérir ces compétences :
 - AC11.02 | Comprendre l'architecture et les fondements des systèmes numériques, les principes du codage de l'information, des communications et de l'Internet
 - AC11.03 | Configurer les fonctions de base du réseau local
 - AC11.04 | Maîtriser les rôles et les principes fondamentaux des systèmes d’exploitation afin d’interagir avec ceux-ci pour la configuration et l'administration des réseaux et services fournis
@@ -20,16 +24,12 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - AC21.04 | Déployer des services réseaux avancés
 - AC21.05 | Identifier les réseaux opérateurs et l’architecture d’Internet
 - AC21.06 | Travailler en équipe pour développer ses compétences professionnelles
-#### SAE liée
-- SAE12- S’initier  aux réseaux informatiques
-- SAE21-Construire un réseau informatique pour une petite structure
-- SAE24-Projet intégratif
-- SAE303- Concevoir un réseau multisites
+
+
 
 
 ### Connecter les entreprises et les usagers 
-#### Apprentissage critique
-- AC12.01 | Mesurer, analyser et commenter les signaux
+J'ai pu développer ces compétences:
 - AC12.02 | Caractériser des systèmes de transmissions élémentaires et découvrir la modélisation mathématique de leur fonctionnement
 - AC12.03 | Déployer des supports de transmission
 - AC12.04 | Connecter les systèmes de ToIP
@@ -39,7 +39,7 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 - AC22.03 | Mettre en place une connexion multi-site via un réseau opérateur
 - AC22.04 | Déployer des réseaux d’accès des opérateurs
 - AC22.05 | Capacité à questionner un cahier des charges RT
-#### SAE liée
+Grâce à ces différentes SAE: 
 - SAE13- Découvrir un dispositif de transmission
 - SAE22- Mesurer et caractériser un signal ou un système
 - SAE24- Projet interactif
@@ -49,7 +49,7 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 
 
 ### Créer des outils et applications informatiques pour les R&T
-#### Apprentissage critique
+Ces compétences ont pu être acquises avec les SAE ci-dessous.
 - AC13.01 | Utiliser un système informatique et ses outils
 - AC13.02 | Lire, exécuter, corriger et modifier un programme
 - AC13.03 | Traduire un algorithme, dans un langage et pour un environnement donné
@@ -73,7 +73,7 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 
 
 ### Administrer un système d’information sécurisé
-#### Apprentissage critique
+les Compétences de Cyber ont pu être approfondies avec les SAE et ressources de la spécialité
 - AC24.01Cyber | Connaître et utiliser les bonnes pratiques et les recommandations de cybersécurité
 - AC24.02Cyber | Mettre en œuvre les outils fondamentaux de sécurisation d’une infrastructure du réseau
 - AC24.03Cyber | Sécuriser les services
@@ -83,10 +83,7 @@ Sur ce read me vous trouverez les apprentissages critique et leur SAE lié
 #### SAE liée
 - SAE6cyber.01- sécuriser un système et réagir à une cyber attaque
 - R6cyber.04- gestion de crise
-
-
 ### Surveiller un système d’information
-#### Apprentissage critique
 - AC25.01Cyber | Administrer les protections contre les logiciels malveillants
 - AC25.02Cyber | Prendre en main des outils de test de pénétration réseau/système
 #### SAE liée
